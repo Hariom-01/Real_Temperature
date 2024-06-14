@@ -1,0 +1,11 @@
+.box{
+ text-align: center;
+ padding-top: 60px;
+ width: 100%;
+
+  margin: 40px;
+  color: rgb(255, 0, 0);
+  background-color: aquamarine;
+  border: 2px solid rgba(0, 255, 64, 0.267);
+  
+}
